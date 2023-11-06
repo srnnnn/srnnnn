@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=KIM+SERIM&animanteion=blink&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=KIM+SERIM&animanteion=blink&fontSize=30)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
