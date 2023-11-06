@@ -1,4 +1,4 @@
-<!--<h3 align="left">안녕하세요 김세림 입니다.</h3> -->
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=KIM+SERIM&animanteion=blink&fontSize=90)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
