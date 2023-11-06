@@ -1,4 +1,4 @@
-<h3 align="left">안녕하세요 김세림 입니다.</h3>
+<!--<h3 align="left">안녕하세요 김세림 입니다.</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
