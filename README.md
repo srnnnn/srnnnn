@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=KIM+SERIM&animanteion=blink&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=KIM+SERIM&animanteion=blink&fontSize=30)
 
 <h3 align="left">Language</h3>
 <div align=left> 
